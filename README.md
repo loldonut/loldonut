@@ -1,6 +1,8 @@
 # 🍩 | loldonut
 
-for some reason almost everything i make is probably related/similar to donuts.
+**For some reason, almost everything I name is probably similar to donuts.**
+
+*probably because I'm not good at naming things*
 
 ## Languages I use
 
