@@ -26,3 +26,7 @@
 - [**DonutShell**](https://github.com/loldonut/donutshell)
 
 > A Custom shell I made for no reason. Just for fun
+
+## Stats
+
+[![stat](https://github-readme-stats.vercel.app/api?username=loldonut)](https://github.com/anuraghazra/github-readme-stats)
