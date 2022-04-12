@@ -15,6 +15,7 @@ for some reason almost everything i make is probably related/similar to donuts.
 ## 📚 | Projects
 
 **Projects that I currently work on** 👇
+<br />
 
 - [**Nyx DiscordBot**](https://github.com/nyx-team/nyx)
 
