@@ -14,10 +14,10 @@ for some reason almost everything i make is probably related/similar to donuts.
 
 ## 📚 | Projects
 
-- [Nyx DiscordBot](https://github.com/nyx-team/nyx)
+- [**Nyx DiscordBot**](https://github.com/nyx-team/nyx)
 
-An open source, multi-purpose discord bot.
+> An open source, multi-purpose discord bot.
 
-- [DonutShell](https://github.com/loldonut/donutshell)
+- [**DonutShell**](https://github.com/loldonut/donutshell)
 
 > A Custom shell I made for no reason. Just for fun
