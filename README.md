@@ -4,7 +4,7 @@
 
 *probably because I'm not good at naming things*
 
-## Languages I use
+## 👩‍💻 | Languages I use
 
 - **JavaScript** - The First Language I learned cuz I wanted to make discord bots
 
@@ -27,7 +27,7 @@
 
 > A Custom shell I made for no reason. Just for fun
 
-## Stats
+## 📊 | Stats
 
 [![stat](https://github-readme-stats.vercel.app/api?username=loldonut)](https://github.com/anuraghazra/github-readme-stats)
 
