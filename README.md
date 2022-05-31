@@ -4,7 +4,7 @@
 
 *probably because I'm not good at naming things*
 
-## 👩‍💻 | Languages I use
+## 👨‍💻 | Languages I use
 
 - **JavaScript** - The First Language I learned cuz I wanted to make discord bots
 
