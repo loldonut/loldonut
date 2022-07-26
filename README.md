@@ -23,9 +23,9 @@
 
 > An open source, multi-purpose discord bot.
 
-- [**DonutShell**](https://github.com/loldonut/donutshell)
+- [**discord-webhooks**](https://github.com/loldonut/discord-webhooks)
 
-> A Custom shell I made for no reason. Just for fun
+> Use to interact with Discord's Webhooks.
 
 ## 📊 | Stats
 
