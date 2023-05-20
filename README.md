@@ -1,10 +1,4 @@
 #### Heyyo, I program mostly discord bots for fun.
-
-### 👨‍💻 | Languages I use
-
-- JavaScript
-- TypeScript
-- Python
  
 ### 📚 | Projects
 
