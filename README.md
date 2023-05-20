@@ -2,9 +2,9 @@
 
 ### 👨‍💻 | Languages I use
 
-- **JavaScript**
-- **TypeScript**
-- **Python**
+- JavaScript
+- TypeScript
+- Python
  
 ### 📚 | Projects
 
