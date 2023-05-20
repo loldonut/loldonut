@@ -1,19 +1,11 @@
-# 🍩 | loldonut
-
-**For some reason, almost everything I name is probably similar to donuts.**
-
-*probably because I'm not good at naming things*
+Heyyo, I program mostly discord bots for fun.
 
 ## 👨‍💻 | Languages I use
 
-- **JavaScript** - The First Language I learned cuz I wanted to make discord bots
-
-- **TypeScript** - yes.
-
-- **Python** - do i even need to explain why
-
-- **C++** - I'm still learning C++
-
+- **JavaScript**
+- **TypeScript**
+- **Python**
+ 
 ## 📚 | Projects
 
 **Projects that I currently work on** 👇
