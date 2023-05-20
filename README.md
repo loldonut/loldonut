@@ -1,12 +1,12 @@
 #### Heyyo, I program mostly discord bots for fun.
 
-## 👨‍💻 | Languages I use
+### 👨‍💻 | Languages I use
 
 - **JavaScript**
 - **TypeScript**
 - **Python**
  
-## 📚 | Projects
+### 📚 | Projects
 
 **Projects that I currently work on** 👇
 <br />
@@ -19,7 +19,7 @@
 
 > Use to interact with Discord's Webhooks.
 
-## 📊 | Stats
+### 📊 | Stats
 
 [![stat](https://github-readme-stats.vercel.app/api?username=loldonut)](https://github.com/anuraghazra/github-readme-stats)
 
