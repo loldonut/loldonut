@@ -1,4 +1,4 @@
-Heyyo, I program mostly discord bots for fun.
+#### Heyyo, I program mostly discord bots for fun.
 
 ## 👨‍💻 | Languages I use
 
