@@ -1,8 +1,4 @@
-<div id="user-content-toc">
-  <ul>
-    <summary><h1 align="center">loldonut</h1></summary>
-  </ul>
-</div>
+# loldonut
 
 #### Heyyo, I program mostly discord bots for fun.
 
