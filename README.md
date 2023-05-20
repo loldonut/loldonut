@@ -1,5 +1,7 @@
 #### Heyyo, I program mostly discord bots for fun.
 
+<hr />
+
 **Here are the projects that I currently work on** 👇
 <br />
 
