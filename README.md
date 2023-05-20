@@ -1,8 +1,6 @@
 #### Heyyo, I program mostly discord bots for fun.
- 
-### 📚 | Projects
 
-**Projects that I currently work on** 👇
+**Here are the projects that I currently work on** 👇
 <br />
 
 - [**Nyx DiscordBot**](https://github.com/nyx-team/nyx)
