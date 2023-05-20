@@ -1,4 +1,5 @@
-<h1 align="center" style="border-bottom: none;">loldonut<h1 />
+<h1 class="username">loldonut<h1 />
+<style>.username { align: center; border-bottom: none; }<style />
 
 #### Heyyo, I program mostly discord bots for fun.
 
