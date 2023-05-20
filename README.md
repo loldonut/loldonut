@@ -1,4 +1,4 @@
-<h2 align="center">loldonut<h2 />
+<h1 align="center">loldonut<h1 />
 
 #### Heyyo, I program mostly discord bots for fun.
 
