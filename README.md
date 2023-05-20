@@ -11,7 +11,7 @@
 
 > Use to interact with Discord's Webhooks.
 
-### 📊 | Stats
+## 📊 | Stats
 
 [![stat](https://github-readme-stats.vercel.app/api?username=loldonut)](https://github.com/anuraghazra/github-readme-stats)
 
