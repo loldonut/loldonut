@@ -1,6 +1,6 @@
 <div>
   <ul>
-    <summary><h1 style="display: inline-block;" align="center">loldonut<h1 /><summary />
+    <summary><h1 align="center">loldonut<h1 /><summary />
   <ul />
 <div />
 
