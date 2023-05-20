@@ -1,8 +1,8 @@
-<div>
+<div id="user-content-toc">
   <ul>
-    <summary><h1 align="center">loldonut<h1 /><summary />
-  <ul />
-<div />
+    <summary><h1 style="display: inline-block;">loldonut</h1></summary>
+  </ul>
+</div>
 
 #### Heyyo, I program mostly discord bots for fun.
 
