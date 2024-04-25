@@ -4,16 +4,10 @@
 
 <hr />
 
-**Here are the projects that I currently work on** 👇
+**Here are the project(s) that I currently work on** 👇
 <br />
 
-- [**Nyx DiscordBot**](https://github.com/nyx-team/nyx)
-
-> An open source, multi-purpose discord bot.
-
-- [**discord-webhooks**](https://github.com/loldonut/discord-webhooks)
-
-> Use to interact with Discord's Webhooks.
+- [**Flaky User Application Bot**](https://github.com/loldonut/flaky)
 
 ## 📊 | Stats
 
